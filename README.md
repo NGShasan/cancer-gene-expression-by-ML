@@ -1,7 +1,5 @@
 # breast-cancer-gene-expression-by-ML
 
-# breast-cancer-gene-expression
-
 <img width="822" alt="1" src="https://user-images.githubusercontent.com/65890522/124380532-5650d600-dcbd-11eb-8bfa-a7dd198d6e3a.png">
 
 This project aims to predict people who will survive breast cancer using machine learning models with the help of clinical data
